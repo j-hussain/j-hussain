@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 I'm currently a second year undergraduate studying Mathematics and Statistics at the University of Warwick, with a variety of interests.
 
 ![Jabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-hussain&count_private=true&theme=vue-dark)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-hussain&theme=synthwave “Jabir’s Top Languages Card”)
