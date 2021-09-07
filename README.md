@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a second year undergraduate studying Mathematics and Statistics at the University of Warwick! 
+
+![Jabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=vue-dark)
