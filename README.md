@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a second year undergraduate studying Mathematics and Statistics at the University of Warwick, with a variety of interests.
-- 🔭 I’m currently working on [Pychain](https://github.com/j-hussain/Pychain), a Blockchain module to assist future projects!
+I'm currently a first year undergraduate studying Systems Engineering at the University of Warwick, with a variety of interests.
+- 🔭 My last project: [Pychain](https://github.com/j-hussain/Pychain), a Blockchain module to assist future projects!
 - 🌱 I’m currently learning machine learning methodologies I can apply to different scenarios, check out my [Reinforcement Learning investigation](https:/github.com/j-hussain/ML-investigation) for example
 - See more at https://jabir.me!
 
