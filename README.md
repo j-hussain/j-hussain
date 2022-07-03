@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a first year undergraduate studying  Engineering at the University of Warwick, with a variety of interests. Currently working as a Quantitative Developer with MCD Capital, and as a Machine Learning Engineer at Warwick Racing, with a lot of proprietary code hence the lack of activity on here!
+I'm currently a first year undergraduate studying  Engineering at the University of Warwick, with a variety of interests. 
+Machine Learning Engineer at Warwick Racing and a former Quant intern.
 
 
 ![Jabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-hussain&count_private=true&theme=vue-dark)
