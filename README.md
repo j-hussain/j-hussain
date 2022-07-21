@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-hussain" alt="j-hussain" /></a> </p>
 
-- 🔭 I’m currently working on [WROD](https://github.com/j-hussain/WROD)
+- 🔭 I’m currently working on [Discord FC](https://github.com/j-hussain/discord_fc), [RTFS](), and (eventually) [WROD](https://github.com/j-hussain/WROD)
 
 - 🌱 I’m currently learning **object detection algorithms, data structures and algorithms, full stack development (MERN+Go)**
 
