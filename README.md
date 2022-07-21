@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [WROD](https://github.com/j-hussain/WROD)
 
-- 🌱 I’m currently learning **Rust!**
+- 🌱 I’m currently learning **object detection algorithms, data structures and algorithms, full stack development (MERN+Go)**
 
 - 🤝 I’m looking for help with **working on open source projects.**
 
-- 💬 Ask me about **machine learning!**
+- 💬 Ask me about **machine learning and data analysis!**
 
 - 📫 How to reach me **hjabir@proton.me**
 
