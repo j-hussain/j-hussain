@@ -1,5 +1,3 @@
-I'm a current masters student studying applied mathematics at the University of Warwick. My main interests are in applying Bayesian inference, alignment and interpretability in machine learning models.
-
-Projects that I've worked on:
-*  [🎓 MSc in Mathematical Modelling and Scientific Computing](https://github.com/j-hussain/mathematical-modelling-msc) - projects I worked on during my postgraduate program.
-*  [🌍 jabir.dev](https://jabir.dev/)
+Postgraduate student at the University of Warwick with a background in scientific computing, Bayesian inference, and applied machine learning. I'm actively exploring research fellowships, collaborative research opportunities and PhD programmes in technical AI safety!
+ 
+My interests centre on understanding what language models actually encode internally: how emergent capabilities arise from training, what internal representations form, and how those connect to safety-relevant behaviour. Whether that's misaligned goals, deceptive tendencies, or representations of concepts that matter for how these systems behave in the world, I'm drawn to the whole project of making the internal workings of these systems legible. I want to connect that understanding to questions of detection, monitoring, and intervention so we not only contain failure modes, but understand them enough to fix them.
